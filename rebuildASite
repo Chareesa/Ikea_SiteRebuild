@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Home furnishings, kitchens, appliances, sofas, beds, mattresses - IKEA</title>
+</head>
+<body>
+  <header>
+    <ul role = "links">
+     <li><img src = "http://www.twmuseums.org.uk/geisha/assets/images/microsites/IKEA-Logo.png"><p>Welcome!</p></li>
+     <li>Search</li>
+     <li><img src = "http://www.ikea.com/ms/img/header/small_anna.gif"><p>Ask Anna!</li>
+      <li>
+       <ul>
+          <li>Log In or Sign Up>
+          <li>My shopping cart</li>
+          <li>My shopping list</li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li>Join IKEA FAMILY</li>
+          <li>Join our email list</li>
+          <li>Información en español</li>
+        </ul>
+      </li>
+    </ul>
+  </header>
+
+  <nav role = "navigation">
+    <h1>Navigation</h1>
+    <ul>
+      <li>Offers</li>
+      <li>New</li>
+      <li>Living room</li>
+      <li>Bedroom</li>
+      <li>Kitchen and Appliances</li>
+      <li>Children's IKEA</li>
+      <li>Textiles and Rugs</li>
+      <li>For Business</li>
+      <li>Departments</li>
+    </ul>
+  </nav>
+
+  <p>"PLEASE NOTE: " <a href "#">Product Recall of Children's mounted wall lighting, Children's bed canopies, KRITTER bed frame, SMILA wall lamp and SNIGLAR bed frame</a></p>
+
+  <article>
+    <h1>Photo Roll</h1>
+  </article>
+
+  <article>
+    <h1>More news and inspiration from IKEA</h1>
+    <nav>
+      <a href = "#"></a>
+      <a href = "#"></a>
+    </nav>
+  </article>
+
+  <article>
+    <h1>Welcome to the fantastic world of paper</h1>
+    <p>Whether you're writing notes, prepping for a party or decorating the home, say it best with the creative paper shop collections.</p>
+    <a href "#">Click here to view our Papershop Collection!</a>
+  </article>
+
+  <article>
+    <h1>Customer Involvement</h1>
+    <ul>
+      <li>
+        <img src = "#">
+        <h2>IKEA US thanks its customers for contributions to Feeding the Future campaign to benefit Feeding America</h2>
+          <a href "#">Click here to read more</a>
+      </li>
+      <li>
+        <h2>Eat for FREE</h2>
+        <a href = "#"><img src = "#"></a>
+        <h4>Dine in our Restaurant and we'll deduct your Restaurant total from any home furnishings purchase over $100!*</h4>
+        <a href = "#">Click here to see details and dates</a>
+      </li>
+        <h2>Join our FREE loyalty program!</h2>
+        <p>Offers valid Aug. 27 - Sept. 30, 2014</p>
+        <a href = "#">Click here to join!</a>
+        <a href = "#"><img src = "#"></a>
+      <li>
+    </ul>
+  </article>
+
+  <article>
+    <h1>Your IKEA essentials</h1>
+    <h2>SHOPPING MADE EASIER</h2>
+    <h3>Useful tips to get more out of IKEA</h3>
+    <h2>IKEA ON THE GO</h2>
+    <h3>More places to meet us</h3>
+    <h2>PLANNING TOOLS</h2>
+    <h3>Plan Before you Shop</h3>
+    <h2>IKEA SHOPPING SERVICES</h2>
+    <h3>You can do it all yourself. But you don't have to.</h3>
+  </article>
+
+  <article>
+    <h1>Contacting IKEA</h1>
+    <h2>Your local IKEA store</h2>
+    <h2>More Questions?</h2>
+    <h3>Frequently Asked Questions</h3>
+    <h3>Ask Anna!</h3>
+  </article>
+
+  <aside>
+    <h1>PRODUCT RECALL<h1>
+  </aside>
+
+  <article>
+    <h1>ALL DEPARTMENTS</h1>
+  </article>
+
+  <article>
+    <h1>Help with IKEA</h1>
+    <h2>IKEA Catalog and Brochures</h2>
+    <h2>Need Help</h2>
+    <h2>The IKEA Store</h2>
+    <h2>This is IKEA</h2>
+    <h2>Working at the IKEA Group</h2>
+  </article>
+</body>
+
+<footer>
+  <h1>IKEA Copyright</h1>
+</footer>
+</html>
